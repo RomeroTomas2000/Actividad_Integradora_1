@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    
+}
+
+body{
+    background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+html{
+    font-size: 15px;
+}
+
+.Bienvenida{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.variables{
+    padding: 2rem;
+    
+}
+
+.variables ul{
+    list-style: none;
+}
+.variable1{ 
+    background-color:red;
+    padding: 2rem;
+    box-shadow: 0 0 10px black;
+    border-radius: 2em;
+}
+
+.variable2{
+    background-color: yellow;
+    padding: 2rem;
+    box-shadow: 0 0 10px black;
+    border-radius: 2em;
+}
+
+.operadores{
+    background-color: rgb(76, 0, 255);
+    box-shadow: 0 0 10px black;
+    border-radius: 2em;
+}
+
+.tituloh2{
+    font-size: 2rem;
+}
+
+.footer{
+    background-color: rgb(28, 135, 135);
+    box-shadow: 0 0 10px black;
+}
